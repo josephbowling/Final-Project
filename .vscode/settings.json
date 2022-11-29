@@ -11,5 +11,6 @@
         "c:\\CSI2300\\javafx-sdk-19\\lib\\javafx.swing.jar",
         "c:\\CSI2300\\javafx-sdk-19\\lib\\javafx.web.jar",
         "c:\\CSI2300\\javafx-sdk-19\\lib\\javafx-swt.jar"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }
