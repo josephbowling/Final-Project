@@ -1,18 +1,9 @@
-## Getting Started
+Welcome to the Time Converter! 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This project is designed to convert a given time reading to an analog display. 
 
-## Folder Structure
+Alternatively, you can use see the system's current time in an analog display.
 
-The workspace contains two folders by default, where:
+To use this project, run the "Main" file, and enter the desired time into the values. You must enter something for all three text boxes, so if you want an exact value, use 0.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Once the time is entered, press the "Convert Time" button, or if the current time is desired, the "Convert Current Time" button.
